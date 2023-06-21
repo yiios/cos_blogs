@@ -18,7 +18,7 @@ description: "关于我？"
 - Gitbook 前端学习记录：[前言及目录 - 前端学习记录](https://book.cosine.ren/) 不断完善ing...
 - 个人博客
   - xlog 链上版博客 👉 [https://x.cosine.ren/](https://x.cosine.ren/)
-  - Hexo 博客 👉 [cosine = 余弦の博客 = WA 的一声就哭了](https://ysx.cosine.ren/)
+  - Hexo 博客 👉 [cosine = 小鱼智能工具 = WA 的一声就哭了](https://ysx.cosine.ren/)
 
 愿热情永存，愿热爱不灭，愿生活无憾
 

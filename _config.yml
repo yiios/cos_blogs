@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 余弦の博客
+title: 小鱼智能工具
 subtitle: WA的一声就哭了
 description: 愿岁并谢，与长友兮
 keywords: 前端, React, 全栈
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ysx.cosine.ren/
+url: https://xiaoyukefu.com/
 permalink: :link/
 permalink_defaults:
 pretty_urls:
