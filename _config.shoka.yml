@@ -113,10 +113,20 @@ widgets:
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
-  since: 2020
+  since: 2023
   # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
   count: true
   powered: true
+  # Beian ICP and gongan information for Chinese users. See: http://www.beian.miit.gov.cn, http://www.beian.gov.cn
+  beian:
+    enable: true
+    icp: 粤ICP备2021150605号-2
+    # The digit in the num of gongan beian.
+    gongan_id:
+    # The full num of gongan beian.
+    gongan_num:
+    # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
+    gongan_icon_url:
 
 post:
   count: true
